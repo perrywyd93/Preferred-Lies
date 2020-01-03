@@ -1,0 +1,196 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+  font-size: 5.5rem;
+  padding: 3% 0 4%;
+}
+
+img {
+  border-radius: 1%;
+}
+
+
+/* Navbar */
+
+.navbar {
+  background-color: #076652;
+  margin: 0 3% 2%;
+}
+
+/* Headings */
+
+.course-names {
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+  padding: 6% 0;
+  text-align: center;
+  text-decoration: underline dotted #e5d743;
+}
+
+.course-names .contact-name {
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+  padding: 6% 0 2%;
+  text-align: center;
+  text-decoration: underline dotted #e5d743;
+}
+
+/* Title Section */
+
+#landing-page {
+  background-color: #fff;
+}
+
+.title {
+  font-size: 4.5rem;
+  text-decoration: underline dotted #e5d743;
+}
+
+.title-text {
+  color: #076652;
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  left: 28%;
+  padding: 1% 8% 3%;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  z-index: 3;
+}
+
+.course-info-container {
+  padding: 3% 15% 5%;
+}
+
+.course-logos {
+  border-radius: 60%;
+  height: 10%;
+  width: 10%;
+  display: block;
+  margin: 0 auto 2%;
+  opacity: 50%;
+}
+
+.course-info {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.course-info .about {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  text-align: center;
+}
+
+/* Carousel */
+
+#title-carousel {
+  padding: 1% 3% 1%;
+}
+
+.carousel-inner {
+  height: 30%;
+  width: 30%;
+  max-height: 850px;
+  opacity: 20%;
+  overflow: hidden;
+  position: absolute;
+  z-index: 1
+}
+
+/* Aronimink section */
+
+#aronimink {
+  padding: 3% 0 7%;
+}
+
+.aronimink-cover {
+  border-radius: 100%;
+  height: 30%;
+  width: 30%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+/* Streamsong section */
+
+.streamsong-cover {
+  border-radius: 100%;
+  height: 35%;
+  width: 35%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+/* Muirfield Section */
+
+.muirfield-cover {
+  border-radius: 100%;
+  height: 35%;
+  width: 35%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+/* Pinehurst Section */
+
+.pinehurst-cover {
+  border-radius: 100%;
+  height: 35%;
+  width: 35%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+/* Augusta Section */
+
+.augusta-cover {
+  border-radius: 100%;
+  height: 35%;
+  width: 35%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+/* Contact Section */
+
+.contact-cover {
+  border-radius: 100%;
+  height: 10%;
+  width: 10%;
+  display: block;
+  margin: 0 auto 2%;
+}
+
+
+/* Course Containers */
+
+.colored-container {
+  background-color: #076652;
+  color: #fff;
+  padding: 0 0 5%;
+}
+
+.white-container {
+  background-color: #fff;
+  color: #076652;
+  padding: 0 0 5%;
+}
+
+.container-fluid {
+  background-color: #076652;
+  color: #fff;
+  padding: 0 0 2%;
+  text-align: center;
+}
+
+.footer-link {
+  margin: 70px 20px 20px;
+  color: #fff;
+  text-align: center;
+}
